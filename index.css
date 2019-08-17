@@ -1,0 +1,20 @@
+.col-lg-1 {
+	width: 80px;
+}
+
+.jumbotron {
+	margin-top: 70px;
+	color: #2c3e50;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
